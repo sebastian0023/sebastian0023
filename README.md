@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Macias 👋</h1>
+<h1 align="center">Hi, I'm Daniel Macias </h1>
 
 <p align="center">
   Systems Engineering student at ITESO · Software Engineer · Cloud & Serverless Enthusiast
