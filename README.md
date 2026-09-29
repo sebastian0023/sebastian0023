@@ -100,7 +100,6 @@ An edge-hosted marketplace using Cloudflare Pages, Workers, and D1.
 ## Certifications
 
 - AWS Academy Cloud Foundations - Amazon Web Services (2026)
-- AWS Academy Cloud Architecting - Amazon Web Services (2026)
 - Oracle Java Foundations - Oracle (2026)
 
 ## Let's connect
